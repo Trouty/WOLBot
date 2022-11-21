@@ -1,4 +1,4 @@
-# WOLBot
+# Wake On Lan Bot
 
 ## Installation and usage
 
